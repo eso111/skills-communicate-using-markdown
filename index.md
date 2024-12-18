@@ -10,6 +10,12 @@
 
 ###### This is an H6 header, the smallest Markdown header in GitHub's Markdown
 
+**Here is a checklist:**
+
+- [ ] Complete GitHub's Markdown training
+- [ ] Edit my Profile README.md file
+- [ ] Determine how to contribute updates to GitHub trainings
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
